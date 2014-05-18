@@ -11,5 +11,7 @@ public class DesktopLauncher {
 		config.width = 480;
 		config.height =  320;
 		new LwjglApplication(new Runner(), config);
+		
+		//tu bylem
 	}
 }
